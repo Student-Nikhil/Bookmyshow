@@ -573,14 +573,14 @@ The application can be extended with additional production-level features:
 
 # 👨‍💻 Author
 
-**Your Name**
+**Nikhil Patil**
 
 Full-Stack Developer | MERN Stack Enthusiast
 
 ### Connect With Me
 
-* GitHub: `https://github.com/YOUR_USERNAME`
-* LinkedIn: `https://linkedin.com/in/YOUR_USERNAME`
+* GitHub: `https://github.com/Student-Nikhil`
+* LinkedIn: `https://www.linkedin.com/in/nikhil-patil-b49076407/`
 
 ---
 
